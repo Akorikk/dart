@@ -1,0 +1,4 @@
+requests>=2.32.0
+click>=8.1.7
+python-dotenv>=1.0.1
+sentence-transformers>=2.2.2
